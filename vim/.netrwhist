@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/nguyen.huynh/workspace/omega_py'
+let g:netrw_dirhist_2='/Users/nguyen.huynh/workspace/go/src/gitlab.myteksi.net/gophers/go/ads/admanager'
+let g:netrw_dirhist_3='/Users/nguyen.huynh/workspace/go/src/gitlab.myteksi.net/gophers/go/ads/admanager/db/dao'
+let g:netrw_dirhist_4='/Users/nguyen.huynh/workspace/go/src/gitlab.myteksi.net/gophers/go/ads/admanager/db/addb/sqldb/repo'
